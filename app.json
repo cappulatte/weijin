@@ -13,10 +13,10 @@
      },
     "V2RAY_RAY_BUFFER_SIZE": {
        "description": "每个连接的缓存大小，单位MB",
-       "value": "64"
+       "value": "10"
      }
   },
-  "website": "https://github.com/cappulatte/v2ray",
-  "repository": "https://github.com/cappulatte/v2ray",
+  "website": "https://github.com/cappulatte/weijin",
+  "repository": "https://github.com/cappulatte/weijin",
   "stack": "container"
  }
