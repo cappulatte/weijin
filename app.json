@@ -1,22 +1,22 @@
 {
   "name": "V2ray",
-  "description": "deploy V2ray to Heroku.",
+  "description": "vtoray.",
   "keywords": ["V2ray"],
   "env": {
     "VER": {
-       "description": "输入v2ray Core 版本号（latest表示最新版本）",
+       "description": "vtoray version",
        "value": "latest"
      }, 
     "UUID": {
-       "description": "Vmess协议默认UUID，请输入自己的UUID",
-       "value": "487c931b-535c-4191-a393-9af8b6905dd9"
+       "description": "youyouid",
+       "value": "b6a4d559-dc0c-44c0-8e2f-8ffb4a365c13"
      },
     "V2RAY_RAY_BUFFER_SIZE": {
-       "description": "每个连接的缓存大小，单位MB",
-       "value": "10"
+       "description": "buffer",
+       "value": "12"
      }
   },
-  "website": "https://github.com/cappulatte/weijin",
-  "repository": "https://github.com/cappulatte/weijin",
+  "website": "",
+  "repository": "",
   "stack": "container"
  }
